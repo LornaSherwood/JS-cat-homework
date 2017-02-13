@@ -12,3 +12,8 @@ We would like you to complete the following tasks using the start point:
 
 Hint: Be careful with the order you append your elements to each other!
 Also be careful with what you need to pass when setting an image's width via the DOM.
+
+To Run:
+
+npm install
+npm start
